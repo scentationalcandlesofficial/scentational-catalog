@@ -1,3 +1,9 @@
 *.bat
 .DS_Store
 Thumbs.db
+
+# PDFs are deliberately NOT published here - they're ~5 MB each and would add
+# a fresh copy to this repo on every catalog update. They live in
+# "New catalog/" instead and are shared directly. This line is a safety net so
+# one can never be committed here by accident.
+*.pdf
