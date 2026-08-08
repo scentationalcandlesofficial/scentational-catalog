@@ -1,4 +1,4 @@
-# Scentational Candles — live catalog
+# Scentational Wicks — live catalog
 
 This folder is a dedicated, PUBLIC deployment folder, auto-updated by the buttons in
 the Catalog Manager tool and auto-pushed here for GitHub Pages to serve.
